@@ -1,0 +1,1280 @@
+﻿Month,addr_state,loan_status
+January,AK,Fully Paid
+January,AL,Charged Off
+January,AL,Fully Paid
+January,AR,Charged Off
+January,AR,Fully Paid
+January,AZ,Charged Off
+January,AZ,Fully Paid
+January,CA,Charged Off
+January,CA,Fully Paid
+January,CO,Charged Off
+January,CO,Fully Paid
+January,CT,Charged Off
+January,CT,Fully Paid
+January,DC,Charged Off
+January,DC,Fully Paid
+January,DE,Fully Paid
+January,FL,Charged Off
+January,FL,Fully Paid
+January,GA,Charged Off
+January,GA,Fully Paid
+January,HI,Fully Paid
+January,IA,Fully Paid
+January,IL,Charged Off
+January,IL,Fully Paid
+January,KS,Charged Off
+January,KS,Fully Paid
+January,KY,Charged Off
+January,KY,Fully Paid
+January,LA,Fully Paid
+January,MA,Charged Off
+January,MA,Fully Paid
+January,MD,Charged Off
+January,MD,Fully Paid
+January,MI,Charged Off
+January,MI,Fully Paid
+January,MN,Charged Off
+January,MN,Fully Paid
+January,MO,Charged Off
+January,MO,Fully Paid
+January,MS,Fully Paid
+January,MT,Fully Paid
+January,NC,Charged Off
+January,NC,Fully Paid
+January,NH,Charged Off
+January,NH,Fully Paid
+January,NJ,Charged Off
+January,NJ,Fully Paid
+January,NM,Fully Paid
+January,NV,Charged Off
+January,NV,Fully Paid
+January,NY,Charged Off
+January,NY,Fully Paid
+January,OH,Charged Off
+January,OH,Fully Paid
+January,OK,Charged Off
+January,OK,Fully Paid
+January,OR,Charged Off
+January,OR,Fully Paid
+January,PA,Charged Off
+January,PA,Fully Paid
+January,RI,Charged Off
+January,RI,Fully Paid
+January,SC,Charged Off
+January,SC,Fully Paid
+January,SD,Fully Paid
+January,TX,Charged Off
+January,TX,Fully Paid
+January,UT,Charged Off
+January,UT,Fully Paid
+January,VA,Charged Off
+January,VA,Fully Paid
+January,VT,Fully Paid
+January,WA,Charged Off
+January,WA,Fully Paid
+January,WI,Charged Off
+January,WI,Fully Paid
+January,WV,Charged Off
+January,WV,Fully Paid
+January,WY,Fully Paid
+February,AK,Fully Paid
+February,AL,Charged Off
+February,AL,Fully Paid
+February,AR,Fully Paid
+February,AZ,Charged Off
+February,AZ,Fully Paid
+February,CA,Charged Off
+February,CA,Fully Paid
+February,CO,Charged Off
+February,CO,Fully Paid
+February,CT,Charged Off
+February,CT,Fully Paid
+February,DC,Charged Off
+February,DC,Fully Paid
+February,DE,Charged Off
+February,DE,Fully Paid
+February,FL,Charged Off
+February,FL,Fully Paid
+February,GA,Charged Off
+February,GA,Fully Paid
+February,HI,Charged Off
+February,HI,Fully Paid
+February,IA,Fully Paid
+February,ID,Charged Off
+February,ID,Fully Paid
+February,IL,Charged Off
+February,IL,Fully Paid
+February,KS,Charged Off
+February,KS,Fully Paid
+February,KY,Charged Off
+February,KY,Fully Paid
+February,LA,Charged Off
+February,LA,Fully Paid
+February,MA,Charged Off
+February,MA,Fully Paid
+February,MD,Charged Off
+February,MD,Fully Paid
+February,MI,Charged Off
+February,MI,Fully Paid
+February,MN,Charged Off
+February,MN,Fully Paid
+February,MO,Charged Off
+February,MO,Fully Paid
+February,MS,Fully Paid
+February,MT,Charged Off
+February,MT,Fully Paid
+February,NC,Charged Off
+February,NC,Fully Paid
+February,NH,Charged Off
+February,NH,Fully Paid
+February,NJ,Charged Off
+February,NJ,Fully Paid
+February,NM,Fully Paid
+February,NV,Charged Off
+February,NV,Fully Paid
+February,NY,Charged Off
+February,NY,Fully Paid
+February,OH,Charged Off
+February,OH,Fully Paid
+February,OK,Charged Off
+February,OK,Fully Paid
+February,OR,Charged Off
+February,OR,Fully Paid
+February,PA,Charged Off
+February,PA,Fully Paid
+February,RI,Charged Off
+February,RI,Fully Paid
+February,SC,Charged Off
+February,SC,Fully Paid
+February,SD,Fully Paid
+February,TN,Fully Paid
+February,TX,Charged Off
+February,TX,Fully Paid
+February,UT,Charged Off
+February,UT,Fully Paid
+February,VA,Charged Off
+February,VA,Fully Paid
+February,VT,Charged Off
+February,VT,Fully Paid
+February,WA,Charged Off
+February,WA,Fully Paid
+February,WI,Charged Off
+February,WI,Fully Paid
+February,WV,Fully Paid
+February,WY,Fully Paid
+March,AK,Charged Off
+March,AK,Fully Paid
+March,AL,Charged Off
+March,AL,Fully Paid
+March,AR,Charged Off
+March,AR,Fully Paid
+March,AZ,Charged Off
+March,AZ,Fully Paid
+March,CA,Charged Off
+March,CA,Current
+March,CA,Fully Paid
+March,CO,Charged Off
+March,CO,Fully Paid
+March,CT,Charged Off
+March,CT,Fully Paid
+March,DC,Fully Paid
+March,DE,Fully Paid
+March,FL,Charged Off
+March,FL,Fully Paid
+March,GA,Charged Off
+March,GA,Fully Paid
+March,HI,Fully Paid
+March,IA,Fully Paid
+March,ID,Fully Paid
+March,IL,Charged Off
+March,IL,Fully Paid
+March,KS,Charged Off
+March,KS,Fully Paid
+March,KY,Charged Off
+March,KY,Fully Paid
+March,LA,Charged Off
+March,LA,Fully Paid
+March,MA,Charged Off
+March,MA,Fully Paid
+March,MD,Charged Off
+March,MD,Fully Paid
+March,MI,Charged Off
+March,MI,Fully Paid
+March,MN,Charged Off
+March,MN,Fully Paid
+March,MO,Charged Off
+March,MO,Fully Paid
+March,MS,Fully Paid
+March,MT,Fully Paid
+March,NC,Charged Off
+March,NC,Fully Paid
+March,NH,Charged Off
+March,NH,Fully Paid
+March,NJ,Charged Off
+March,NJ,Fully Paid
+March,NM,Fully Paid
+March,NV,Charged Off
+March,NV,Fully Paid
+March,NY,Charged Off
+March,NY,Fully Paid
+March,OH,Charged Off
+March,OH,Fully Paid
+March,OK,Charged Off
+March,OK,Fully Paid
+March,OR,Charged Off
+March,OR,Fully Paid
+March,PA,Charged Off
+March,PA,Fully Paid
+March,RI,Charged Off
+March,RI,Fully Paid
+March,SC,Charged Off
+March,SC,Fully Paid
+March,SD,Fully Paid
+March,TN,Fully Paid
+March,TX,Charged Off
+March,TX,Fully Paid
+March,UT,Charged Off
+March,UT,Fully Paid
+March,VA,Charged Off
+March,VA,Fully Paid
+March,VT,Fully Paid
+March,WA,Charged Off
+March,WA,Fully Paid
+March,WI,Charged Off
+March,WI,Fully Paid
+March,WV,Charged Off
+March,WV,Fully Paid
+March,WY,Fully Paid
+April,AK,Charged Off
+April,AK,Fully Paid
+April,AL,Charged Off
+April,AL,Fully Paid
+April,AR,Charged Off
+April,AR,Fully Paid
+April,AZ,Charged Off
+April,AZ,Fully Paid
+April,CA,Charged Off
+April,CA,Fully Paid
+April,CO,Charged Off
+April,CO,Fully Paid
+April,CT,Charged Off
+April,CT,Fully Paid
+April,DC,Fully Paid
+April,DE,Fully Paid
+April,FL,Charged Off
+April,FL,Fully Paid
+April,GA,Charged Off
+April,GA,Fully Paid
+April,HI,Charged Off
+April,HI,Fully Paid
+April,ID,Fully Paid
+April,IL,Charged Off
+April,IL,Fully Paid
+April,KS,Charged Off
+April,KS,Fully Paid
+April,KY,Charged Off
+April,KY,Fully Paid
+April,LA,Charged Off
+April,LA,Fully Paid
+April,MA,Charged Off
+April,MA,Fully Paid
+April,MD,Charged Off
+April,MD,Fully Paid
+April,MI,Charged Off
+April,MI,Fully Paid
+April,MN,Charged Off
+April,MN,Fully Paid
+April,MO,Charged Off
+April,MO,Fully Paid
+April,MS,Charged Off
+April,MS,Fully Paid
+April,MT,Fully Paid
+April,NC,Charged Off
+April,NC,Fully Paid
+April,NH,Charged Off
+April,NH,Fully Paid
+April,NJ,Charged Off
+April,NJ,Current
+April,NJ,Fully Paid
+April,NM,Charged Off
+April,NM,Fully Paid
+April,NV,Charged Off
+April,NV,Fully Paid
+April,NY,Charged Off
+April,NY,Current
+April,NY,Fully Paid
+April,OH,Charged Off
+April,OH,Fully Paid
+April,OK,Charged Off
+April,OK,Fully Paid
+April,OR,Charged Off
+April,OR,Fully Paid
+April,PA,Charged Off
+April,PA,Fully Paid
+April,RI,Charged Off
+April,RI,Fully Paid
+April,SC,Charged Off
+April,SC,Fully Paid
+April,SD,Fully Paid
+April,TN,Charged Off
+April,TN,Fully Paid
+April,TX,Charged Off
+April,TX,Fully Paid
+April,UT,Charged Off
+April,UT,Fully Paid
+April,VA,Charged Off
+April,VA,Fully Paid
+April,VT,Fully Paid
+April,WA,Charged Off
+April,WA,Fully Paid
+April,WI,Charged Off
+April,WI,Fully Paid
+April,WV,Charged Off
+April,WV,Fully Paid
+April,WY,Fully Paid
+May,AK,Charged Off
+May,AK,Fully Paid
+May,AL,Current
+May,AL,Fully Paid
+May,AR,Charged Off
+May,AR,Current
+May,AR,Fully Paid
+May,AZ,Charged Off
+May,AZ,Current
+May,AZ,Fully Paid
+May,CA,Charged Off
+May,CA,Current
+May,CA,Fully Paid
+May,CO,Charged Off
+May,CO,Current
+May,CO,Fully Paid
+May,CT,Charged Off
+May,CT,Current
+May,CT,Fully Paid
+May,DC,Fully Paid
+May,DE,Charged Off
+May,DE,Current
+May,DE,Fully Paid
+May,FL,Charged Off
+May,FL,Current
+May,FL,Fully Paid
+May,GA,Charged Off
+May,GA,Current
+May,GA,Fully Paid
+May,HI,Charged Off
+May,HI,Fully Paid
+May,IA,Fully Paid
+May,IL,Charged Off
+May,IL,Current
+May,IL,Fully Paid
+May,KS,Current
+May,KS,Fully Paid
+May,KY,Charged Off
+May,KY,Current
+May,KY,Fully Paid
+May,LA,Charged Off
+May,LA,Fully Paid
+May,MA,Charged Off
+May,MA,Current
+May,MA,Fully Paid
+May,MD,Charged Off
+May,MD,Current
+May,MD,Fully Paid
+May,MI,Charged Off
+May,MI,Current
+May,MI,Fully Paid
+May,MN,Charged Off
+May,MN,Current
+May,MN,Fully Paid
+May,MO,Charged Off
+May,MO,Fully Paid
+May,MS,Fully Paid
+May,MT,Charged Off
+May,MT,Fully Paid
+May,NC,Charged Off
+May,NC,Current
+May,NC,Fully Paid
+May,NE,Fully Paid
+May,NH,Charged Off
+May,NH,Fully Paid
+May,NJ,Charged Off
+May,NJ,Current
+May,NJ,Fully Paid
+May,NM,Charged Off
+May,NM,Current
+May,NM,Fully Paid
+May,NV,Charged Off
+May,NV,Current
+May,NV,Fully Paid
+May,NY,Charged Off
+May,NY,Current
+May,NY,Fully Paid
+May,OH,Charged Off
+May,OH,Current
+May,OH,Fully Paid
+May,OK,Charged Off
+May,OK,Current
+May,OK,Fully Paid
+May,OR,Charged Off
+May,OR,Fully Paid
+May,PA,Charged Off
+May,PA,Current
+May,PA,Fully Paid
+May,RI,Fully Paid
+May,SC,Charged Off
+May,SC,Current
+May,SC,Fully Paid
+May,SD,Charged Off
+May,SD,Fully Paid
+May,TX,Charged Off
+May,TX,Current
+May,TX,Fully Paid
+May,UT,Charged Off
+May,UT,Fully Paid
+May,VA,Charged Off
+May,VA,Current
+May,VA,Fully Paid
+May,VT,Charged Off
+May,VT,Fully Paid
+May,WA,Charged Off
+May,WA,Fully Paid
+May,WI,Charged Off
+May,WI,Current
+May,WI,Fully Paid
+May,WV,Charged Off
+May,WV,Fully Paid
+May,WY,Charged Off
+May,WY,Fully Paid
+June,AK,Charged Off
+June,AK,Fully Paid
+June,AL,Charged Off
+June,AL,Current
+June,AL,Fully Paid
+June,AR,Charged Off
+June,AR,Current
+June,AR,Fully Paid
+June,AZ,Charged Off
+June,AZ,Current
+June,AZ,Fully Paid
+June,CA,Charged Off
+June,CA,Current
+June,CA,Fully Paid
+June,CO,Charged Off
+June,CO,Current
+June,CO,Fully Paid
+June,CT,Charged Off
+June,CT,Current
+June,CT,Fully Paid
+June,DC,Charged Off
+June,DC,Current
+June,DC,Fully Paid
+June,DE,Charged Off
+June,DE,Fully Paid
+June,FL,Charged Off
+June,FL,Current
+June,FL,Fully Paid
+June,GA,Charged Off
+June,GA,Current
+June,GA,Fully Paid
+June,HI,Charged Off
+June,HI,Fully Paid
+June,IL,Charged Off
+June,IL,Current
+June,IL,Fully Paid
+June,KS,Charged Off
+June,KS,Current
+June,KS,Fully Paid
+June,KY,Charged Off
+June,KY,Current
+June,KY,Fully Paid
+June,LA,Charged Off
+June,LA,Current
+June,LA,Fully Paid
+June,MA,Charged Off
+June,MA,Current
+June,MA,Fully Paid
+June,MD,Charged Off
+June,MD,Current
+June,MD,Fully Paid
+June,MI,Charged Off
+June,MI,Current
+June,MI,Fully Paid
+June,MN,Charged Off
+June,MN,Fully Paid
+June,MO,Charged Off
+June,MO,Current
+June,MO,Fully Paid
+June,MS,Fully Paid
+June,MT,Charged Off
+June,MT,Fully Paid
+June,NC,Charged Off
+June,NC,Current
+June,NC,Fully Paid
+June,NH,Charged Off
+June,NH,Current
+June,NH,Fully Paid
+June,NJ,Charged Off
+June,NJ,Current
+June,NJ,Fully Paid
+June,NM,Charged Off
+June,NM,Fully Paid
+June,NV,Charged Off
+June,NV,Fully Paid
+June,NY,Charged Off
+June,NY,Current
+June,NY,Fully Paid
+June,OH,Charged Off
+June,OH,Current
+June,OH,Fully Paid
+June,OK,Charged Off
+June,OK,Current
+June,OK,Fully Paid
+June,OR,Charged Off
+June,OR,Current
+June,OR,Fully Paid
+June,PA,Charged Off
+June,PA,Current
+June,PA,Fully Paid
+June,RI,Charged Off
+June,RI,Current
+June,RI,Fully Paid
+June,SC,Charged Off
+June,SC,Current
+June,SC,Fully Paid
+June,SD,Charged Off
+June,SD,Fully Paid
+June,TN,Charged Off
+June,TN,Fully Paid
+June,TX,Charged Off
+June,TX,Current
+June,TX,Fully Paid
+June,UT,Charged Off
+June,UT,Current
+June,UT,Fully Paid
+June,VA,Charged Off
+June,VA,Current
+June,VA,Fully Paid
+June,VT,Fully Paid
+June,WA,Charged Off
+June,WA,Current
+June,WA,Fully Paid
+June,WI,Charged Off
+June,WI,Current
+June,WI,Fully Paid
+June,WV,Fully Paid
+June,WY,Fully Paid
+July,AK,Fully Paid
+July,AL,Charged Off
+July,AL,Current
+July,AL,Fully Paid
+July,AR,Charged Off
+July,AR,Current
+July,AR,Fully Paid
+July,AZ,Charged Off
+July,AZ,Current
+July,AZ,Fully Paid
+July,CA,Charged Off
+July,CA,Current
+July,CA,Fully Paid
+July,CO,Charged Off
+July,CO,Current
+July,CO,Fully Paid
+July,CT,Charged Off
+July,CT,Fully Paid
+July,DC,Fully Paid
+July,DE,Fully Paid
+July,FL,Charged Off
+July,FL,Current
+July,FL,Fully Paid
+July,GA,Charged Off
+July,GA,Current
+July,GA,Fully Paid
+July,HI,Current
+July,HI,Fully Paid
+July,IL,Charged Off
+July,IL,Current
+July,IL,Fully Paid
+July,IN,Fully Paid
+July,KS,Charged Off
+July,KS,Fully Paid
+July,KY,Charged Off
+July,KY,Fully Paid
+July,LA,Charged Off
+July,LA,Current
+July,LA,Fully Paid
+July,MA,Charged Off
+July,MA,Current
+July,MA,Fully Paid
+July,MD,Charged Off
+July,MD,Current
+July,MD,Fully Paid
+July,ME,Fully Paid
+July,MI,Charged Off
+July,MI,Current
+July,MI,Fully Paid
+July,MN,Charged Off
+July,MN,Current
+July,MN,Fully Paid
+July,MO,Charged Off
+July,MO,Current
+July,MO,Fully Paid
+July,MT,Fully Paid
+July,NC,Charged Off
+July,NC,Current
+July,NC,Fully Paid
+July,NH,Charged Off
+July,NH,Current
+July,NH,Fully Paid
+July,NJ,Charged Off
+July,NJ,Current
+July,NJ,Fully Paid
+July,NM,Charged Off
+July,NM,Current
+July,NM,Fully Paid
+July,NV,Charged Off
+July,NV,Fully Paid
+July,NY,Charged Off
+July,NY,Current
+July,NY,Fully Paid
+July,OH,Charged Off
+July,OH,Current
+July,OH,Fully Paid
+July,OK,Charged Off
+July,OK,Current
+July,OK,Fully Paid
+July,OR,Charged Off
+July,OR,Fully Paid
+July,PA,Charged Off
+July,PA,Current
+July,PA,Fully Paid
+July,RI,Charged Off
+July,RI,Current
+July,RI,Fully Paid
+July,SC,Charged Off
+July,SC,Current
+July,SC,Fully Paid
+July,SD,Charged Off
+July,SD,Fully Paid
+July,TN,Fully Paid
+July,TX,Charged Off
+July,TX,Current
+July,TX,Fully Paid
+July,UT,Charged Off
+July,UT,Current
+July,UT,Fully Paid
+July,VA,Charged Off
+July,VA,Current
+July,VA,Fully Paid
+July,VT,Charged Off
+July,VT,Fully Paid
+July,WA,Charged Off
+July,WA,Current
+July,WA,Fully Paid
+July,WI,Charged Off
+July,WI,Current
+July,WI,Fully Paid
+July,WV,Charged Off
+July,WV,Current
+July,WV,Fully Paid
+July,WY,Current
+July,WY,Fully Paid
+August,AK,Charged Off
+August,AK,Fully Paid
+August,AL,Charged Off
+August,AL,Current
+August,AL,Fully Paid
+August,AR,Charged Off
+August,AR,Current
+August,AR,Fully Paid
+August,AZ,Charged Off
+August,AZ,Current
+August,AZ,Fully Paid
+August,CA,Charged Off
+August,CA,Current
+August,CA,Fully Paid
+August,CO,Charged Off
+August,CO,Current
+August,CO,Fully Paid
+August,CT,Charged Off
+August,CT,Current
+August,CT,Fully Paid
+August,DC,Charged Off
+August,DC,Current
+August,DC,Fully Paid
+August,DE,Charged Off
+August,DE,Fully Paid
+August,FL,Charged Off
+August,FL,Current
+August,FL,Fully Paid
+August,GA,Charged Off
+August,GA,Current
+August,GA,Fully Paid
+August,HI,Charged Off
+August,HI,Current
+August,HI,Fully Paid
+August,IL,Charged Off
+August,IL,Current
+August,IL,Fully Paid
+August,IN,Fully Paid
+August,KS,Current
+August,KS,Fully Paid
+August,KY,Charged Off
+August,KY,Current
+August,KY,Fully Paid
+August,LA,Charged Off
+August,LA,Fully Paid
+August,MA,Charged Off
+August,MA,Current
+August,MA,Fully Paid
+August,MD,Charged Off
+August,MD,Current
+August,MD,Fully Paid
+August,MI,Charged Off
+August,MI,Current
+August,MI,Fully Paid
+August,MN,Charged Off
+August,MN,Fully Paid
+August,MO,Charged Off
+August,MO,Current
+August,MO,Fully Paid
+August,MT,Fully Paid
+August,NC,Charged Off
+August,NC,Current
+August,NC,Fully Paid
+August,NE,Charged Off
+August,NH,Charged Off
+August,NH,Fully Paid
+August,NJ,Charged Off
+August,NJ,Current
+August,NJ,Fully Paid
+August,NM,Charged Off
+August,NM,Fully Paid
+August,NV,Charged Off
+August,NV,Current
+August,NV,Fully Paid
+August,NY,Charged Off
+August,NY,Current
+August,NY,Fully Paid
+August,OH,Charged Off
+August,OH,Current
+August,OH,Fully Paid
+August,OK,Charged Off
+August,OK,Fully Paid
+August,OR,Charged Off
+August,OR,Current
+August,OR,Fully Paid
+August,PA,Charged Off
+August,PA,Current
+August,PA,Fully Paid
+August,RI,Charged Off
+August,RI,Fully Paid
+August,SC,Charged Off
+August,SC,Current
+August,SC,Fully Paid
+August,SD,Charged Off
+August,SD,Fully Paid
+August,TN,Fully Paid
+August,TX,Charged Off
+August,TX,Current
+August,TX,Fully Paid
+August,UT,Fully Paid
+August,VA,Charged Off
+August,VA,Current
+August,VA,Fully Paid
+August,VT,Fully Paid
+August,WA,Charged Off
+August,WA,Current
+August,WA,Fully Paid
+August,WI,Charged Off
+August,WI,Current
+August,WI,Fully Paid
+August,WV,Charged Off
+August,WV,Current
+August,WV,Fully Paid
+August,WY,Fully Paid
+September,AK,Charged Off
+September,AK,Fully Paid
+September,AL,Charged Off
+September,AL,Current
+September,AL,Fully Paid
+September,AR,Charged Off
+September,AR,Current
+September,AR,Fully Paid
+September,AZ,Charged Off
+September,AZ,Current
+September,AZ,Fully Paid
+September,CA,Charged Off
+September,CA,Current
+September,CA,Fully Paid
+September,CO,Charged Off
+September,CO,Current
+September,CO,Fully Paid
+September,CT,Charged Off
+September,CT,Current
+September,CT,Fully Paid
+September,DC,Fully Paid
+September,DE,Charged Off
+September,DE,Fully Paid
+September,FL,Charged Off
+September,FL,Current
+September,FL,Fully Paid
+September,GA,Charged Off
+September,GA,Current
+September,GA,Fully Paid
+September,HI,Charged Off
+September,HI,Current
+September,HI,Fully Paid
+September,IL,Charged Off
+September,IL,Current
+September,IL,Fully Paid
+September,KS,Charged Off
+September,KS,Current
+September,KS,Fully Paid
+September,KY,Charged Off
+September,KY,Current
+September,KY,Fully Paid
+September,LA,Charged Off
+September,LA,Current
+September,LA,Fully Paid
+September,MA,Charged Off
+September,MA,Current
+September,MA,Fully Paid
+September,MD,Charged Off
+September,MD,Current
+September,MD,Fully Paid
+September,MI,Charged Off
+September,MI,Current
+September,MI,Fully Paid
+September,MN,Charged Off
+September,MN,Current
+September,MN,Fully Paid
+September,MO,Charged Off
+September,MO,Current
+September,MO,Fully Paid
+September,MT,Charged Off
+September,MT,Fully Paid
+September,NC,Charged Off
+September,NC,Current
+September,NC,Fully Paid
+September,NE,Fully Paid
+September,NH,Charged Off
+September,NH,Current
+September,NH,Fully Paid
+September,NJ,Charged Off
+September,NJ,Current
+September,NJ,Fully Paid
+September,NM,Charged Off
+September,NM,Fully Paid
+September,NV,Charged Off
+September,NV,Current
+September,NV,Fully Paid
+September,NY,Charged Off
+September,NY,Current
+September,NY,Fully Paid
+September,OH,Charged Off
+September,OH,Current
+September,OH,Fully Paid
+September,OK,Charged Off
+September,OK,Current
+September,OK,Fully Paid
+September,OR,Charged Off
+September,OR,Current
+September,OR,Fully Paid
+September,PA,Charged Off
+September,PA,Current
+September,PA,Fully Paid
+September,RI,Charged Off
+September,RI,Fully Paid
+September,SC,Charged Off
+September,SC,Current
+September,SC,Fully Paid
+September,SD,Charged Off
+September,SD,Fully Paid
+September,TN,Fully Paid
+September,TX,Charged Off
+September,TX,Current
+September,TX,Fully Paid
+September,UT,Charged Off
+September,UT,Fully Paid
+September,VA,Charged Off
+September,VA,Current
+September,VA,Fully Paid
+September,VT,Fully Paid
+September,WA,Charged Off
+September,WA,Current
+September,WA,Fully Paid
+September,WI,Charged Off
+September,WI,Current
+September,WI,Fully Paid
+September,WV,Charged Off
+September,WV,Current
+September,WV,Fully Paid
+September,WY,Charged Off
+September,WY,Fully Paid
+October,AK,Charged Off
+October,AK,Fully Paid
+October,AL,Charged Off
+October,AL,Current
+October,AL,Fully Paid
+October,AR,Charged Off
+October,AR,Current
+October,AR,Fully Paid
+October,AZ,Charged Off
+October,AZ,Current
+October,AZ,Fully Paid
+October,CA,Charged Off
+October,CA,Current
+October,CA,Fully Paid
+October,CO,Charged Off
+October,CO,Current
+October,CO,Fully Paid
+October,CT,Charged Off
+October,CT,Current
+October,CT,Fully Paid
+October,DC,Charged Off
+October,DC,Fully Paid
+October,DE,Charged Off
+October,DE,Fully Paid
+October,FL,Charged Off
+October,FL,Current
+October,FL,Fully Paid
+October,GA,Charged Off
+October,GA,Current
+October,GA,Fully Paid
+October,HI,Charged Off
+October,HI,Current
+October,HI,Fully Paid
+October,IL,Charged Off
+October,IL,Current
+October,IL,Fully Paid
+October,IN,Fully Paid
+October,KS,Charged Off
+October,KS,Current
+October,KS,Fully Paid
+October,KY,Charged Off
+October,KY,Current
+October,KY,Fully Paid
+October,LA,Charged Off
+October,LA,Current
+October,LA,Fully Paid
+October,MA,Charged Off
+October,MA,Current
+October,MA,Fully Paid
+October,MD,Charged Off
+October,MD,Current
+October,MD,Fully Paid
+October,ME,Fully Paid
+October,MI,Charged Off
+October,MI,Current
+October,MI,Fully Paid
+October,MN,Charged Off
+October,MN,Current
+October,MN,Fully Paid
+October,MO,Charged Off
+October,MO,Current
+October,MO,Fully Paid
+October,MS,Fully Paid
+October,MT,Fully Paid
+October,NC,Charged Off
+October,NC,Current
+October,NC,Fully Paid
+October,NH,Charged Off
+October,NH,Current
+October,NH,Fully Paid
+October,NJ,Charged Off
+October,NJ,Current
+October,NJ,Fully Paid
+October,NM,Charged Off
+October,NM,Current
+October,NM,Fully Paid
+October,NV,Charged Off
+October,NV,Current
+October,NV,Fully Paid
+October,NY,Charged Off
+October,NY,Current
+October,NY,Fully Paid
+October,OH,Charged Off
+October,OH,Current
+October,OH,Fully Paid
+October,OK,Charged Off
+October,OK,Current
+October,OK,Fully Paid
+October,OR,Charged Off
+October,OR,Current
+October,OR,Fully Paid
+October,PA,Charged Off
+October,PA,Current
+October,PA,Fully Paid
+October,RI,Charged Off
+October,RI,Fully Paid
+October,SC,Charged Off
+October,SC,Current
+October,SC,Fully Paid
+October,SD,Current
+October,SD,Fully Paid
+October,TN,Fully Paid
+October,TX,Charged Off
+October,TX,Current
+October,TX,Fully Paid
+October,UT,Charged Off
+October,UT,Current
+October,UT,Fully Paid
+October,VA,Charged Off
+October,VA,Current
+October,VA,Fully Paid
+October,VT,Fully Paid
+October,WA,Charged Off
+October,WA,Current
+October,WA,Fully Paid
+October,WI,Charged Off
+October,WI,Current
+October,WI,Fully Paid
+October,WV,Charged Off
+October,WV,Current
+October,WV,Fully Paid
+October,WY,Charged Off
+October,WY,Fully Paid
+November,AK,Charged Off
+November,AK,Fully Paid
+November,AL,Charged Off
+November,AL,Current
+November,AL,Fully Paid
+November,AR,Charged Off
+November,AR,Fully Paid
+November,AZ,Charged Off
+November,AZ,Current
+November,AZ,Fully Paid
+November,CA,Charged Off
+November,CA,Current
+November,CA,Fully Paid
+November,CO,Charged Off
+November,CO,Current
+November,CO,Fully Paid
+November,CT,Charged Off
+November,CT,Current
+November,CT,Fully Paid
+November,DC,Charged Off
+November,DC,Current
+November,DC,Fully Paid
+November,DE,Charged Off
+November,DE,Fully Paid
+November,FL,Charged Off
+November,FL,Current
+November,FL,Fully Paid
+November,GA,Charged Off
+November,GA,Current
+November,GA,Fully Paid
+November,HI,Charged Off
+November,HI,Current
+November,HI,Fully Paid
+November,IL,Charged Off
+November,IL,Current
+November,IL,Fully Paid
+November,KS,Charged Off
+November,KS,Fully Paid
+November,KY,Charged Off
+November,KY,Current
+November,KY,Fully Paid
+November,LA,Charged Off
+November,LA,Fully Paid
+November,MA,Charged Off
+November,MA,Current
+November,MA,Fully Paid
+November,MD,Charged Off
+November,MD,Current
+November,MD,Fully Paid
+November,MI,Charged Off
+November,MI,Current
+November,MI,Fully Paid
+November,MN,Charged Off
+November,MN,Current
+November,MN,Fully Paid
+November,MO,Charged Off
+November,MO,Current
+November,MO,Fully Paid
+November,MS,Fully Paid
+November,MT,Charged Off
+November,MT,Fully Paid
+November,NC,Charged Off
+November,NC,Current
+November,NC,Fully Paid
+November,NH,Charged Off
+November,NH,Fully Paid
+November,NJ,Charged Off
+November,NJ,Current
+November,NJ,Fully Paid
+November,NM,Charged Off
+November,NM,Current
+November,NM,Fully Paid
+November,NV,Charged Off
+November,NV,Current
+November,NV,Fully Paid
+November,NY,Charged Off
+November,NY,Current
+November,NY,Fully Paid
+November,OH,Charged Off
+November,OH,Current
+November,OH,Fully Paid
+November,OK,Charged Off
+November,OK,Current
+November,OK,Fully Paid
+November,OR,Charged Off
+November,OR,Current
+November,OR,Fully Paid
+November,PA,Charged Off
+November,PA,Current
+November,PA,Fully Paid
+November,RI,Charged Off
+November,RI,Fully Paid
+November,SC,Charged Off
+November,SC,Fully Paid
+November,SD,Charged Off
+November,SD,Fully Paid
+November,TX,Charged Off
+November,TX,Current
+November,TX,Fully Paid
+November,UT,Charged Off
+November,UT,Current
+November,UT,Fully Paid
+November,VA,Charged Off
+November,VA,Current
+November,VA,Fully Paid
+November,VT,Charged Off
+November,VT,Fully Paid
+November,WA,Charged Off
+November,WA,Current
+November,WA,Fully Paid
+November,WI,Charged Off
+November,WI,Current
+November,WI,Fully Paid
+November,WV,Charged Off
+November,WV,Fully Paid
+November,WY,Fully Paid
+December,AK,Charged Off
+December,AK,Current
+December,AK,Fully Paid
+December,AL,Charged Off
+December,AL,Current
+December,AL,Fully Paid
+December,AR,Charged Off
+December,AR,Current
+December,AR,Fully Paid
+December,AZ,Charged Off
+December,AZ,Current
+December,AZ,Fully Paid
+December,CA,Charged Off
+December,CA,Current
+December,CA,Fully Paid
+December,CO,Charged Off
+December,CO,Current
+December,CO,Fully Paid
+December,CT,Charged Off
+December,CT,Current
+December,CT,Fully Paid
+December,DC,Charged Off
+December,DC,Fully Paid
+December,DE,Charged Off
+December,DE,Fully Paid
+December,FL,Charged Off
+December,FL,Current
+December,FL,Fully Paid
+December,GA,Charged Off
+December,GA,Current
+December,GA,Fully Paid
+December,HI,Charged Off
+December,HI,Fully Paid
+December,IL,Charged Off
+December,IL,Current
+December,IL,Fully Paid
+December,IN,Fully Paid
+December,KS,Charged Off
+December,KS,Current
+December,KS,Fully Paid
+December,KY,Charged Off
+December,KY,Current
+December,KY,Fully Paid
+December,LA,Charged Off
+December,LA,Current
+December,LA,Fully Paid
+December,MA,Charged Off
+December,MA,Current
+December,MA,Fully Paid
+December,MD,Charged Off
+December,MD,Current
+December,MD,Fully Paid
+December,ME,Fully Paid
+December,MI,Charged Off
+December,MI,Fully Paid
+December,MN,Charged Off
+December,MN,Current
+December,MN,Fully Paid
+December,MO,Charged Off
+December,MO,Current
+December,MO,Fully Paid
+December,MS,Fully Paid
+December,MT,Charged Off
+December,MT,Current
+December,MT,Fully Paid
+December,NC,Charged Off
+December,NC,Current
+December,NC,Fully Paid
+December,NE,Charged Off
+December,NH,Charged Off
+December,NH,Fully Paid
+December,NJ,Charged Off
+December,NJ,Current
+December,NJ,Fully Paid
+December,NM,Charged Off
+December,NM,Current
+December,NM,Fully Paid
+December,NV,Charged Off
+December,NV,Current
+December,NV,Fully Paid
+December,NY,Charged Off
+December,NY,Current
+December,NY,Fully Paid
+December,OH,Charged Off
+December,OH,Current
+December,OH,Fully Paid
+December,OK,Charged Off
+December,OK,Current
+December,OK,Fully Paid
+December,OR,Charged Off
+December,OR,Current
+December,OR,Fully Paid
+December,PA,Charged Off
+December,PA,Current
+December,PA,Fully Paid
+December,RI,Charged Off
+December,RI,Current
+December,RI,Fully Paid
+December,SC,Charged Off
+December,SC,Current
+December,SC,Fully Paid
+December,SD,Charged Off
+December,SD,Current
+December,SD,Fully Paid
+December,TX,Charged Off
+December,TX,Current
+December,TX,Fully Paid
+December,UT,Charged Off
+December,UT,Current
+December,UT,Fully Paid
+December,VA,Charged Off
+December,VA,Current
+December,VA,Fully Paid
+December,VT,Charged Off
+December,VT,Current
+December,VT,Fully Paid
+December,WA,Charged Off
+December,WA,Current
+December,WA,Fully Paid
+December,WI,Charged Off
+December,WI,Current
+December,WI,Fully Paid
+December,WV,Charged Off
+December,WV,Current
+December,WV,Fully Paid
+December,WY,Current
+December,WY,Fully Paid
